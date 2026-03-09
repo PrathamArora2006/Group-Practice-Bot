@@ -1,0 +1,6 @@
+Academic Workflow Management System
+modular backend architecture in Python with separation of logic, storage, and command layers
+
+group-task management using dictionaries and sets for efficient O(1) operations
+
+task submission and completion tracking with basic complexity analysis
