@@ -1,5 +1,5 @@
-## Group-Practice-Bot
-# An Academic Workflow Management System
+# Group-Practice-Bot
+## An Academic Workflow Management System
    1.) Modular backend architecture in Python with separation of logic, storage, and command layers
 
    2.) Group-task management using dictionaries and sets for efficient O(1) operations
